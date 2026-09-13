@@ -109,8 +109,6 @@ To install the StudyNotion platform, follow these steps:
 
 [![Study Notion](https://i.ibb.co/yScrnph/Screenshot-from-2024-05-19-00-19-53.png)]
 
-[![Study Notion](https://i.ibb.co/Fb72r3p/Screenshot-from-2024-05-19-00-20-49.png)]
-
 <img width="1296" height="564" alt="image" src="https://github.com/user-attachments/assets/c5d1ada6-a914-4f0a-9473-4c4abe587117" />
 
 <img width="1263" height="373" alt="image" src="https://github.com/user-attachments/assets/4d71346f-c4b7-464e-9096-72a01f9a1831" />
