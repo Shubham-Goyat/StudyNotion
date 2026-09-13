@@ -1,4 +1,4 @@
-# [StudyNotion - EdTech Platform](Website link)
+# [StudyNotion - EdTech Platform](https://studynotion-six-beta.vercel.app/)
 
 StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
@@ -105,11 +105,25 @@ To install the StudyNotion platform, follow these steps:
 
 ## Preview
 
-[![Study Notion](https://i.ibb.co/4WWK2DS/Screenshot-from-2024-05-19-00-19-45.png)](https://study-notion-seven-nu.vercel.app/)
+[![Study Notion](https://i.ibb.co/4WWK2DS/Screenshot-from-2024-05-19-00-19-45.png)]
 
-[![Study Notion](https://i.ibb.co/yScrnph/Screenshot-from-2024-05-19-00-19-53.png)](https://study-notion-seven-nu.vercel.app/)
+[![Study Notion](https://i.ibb.co/yScrnph/Screenshot-from-2024-05-19-00-19-53.png)]
 
-[![Study Notion](https://i.ibb.co/Fb72r3p/Screenshot-from-2024-05-19-00-20-49.png)](https://study-notion-seven-nu.vercel.app/)
+[![Study Notion](https://i.ibb.co/Fb72r3p/Screenshot-from-2024-05-19-00-20-49.png)]
+
+<img width="1296" height="564" alt="image" src="https://github.com/user-attachments/assets/c5d1ada6-a914-4f0a-9473-4c4abe587117" />
+
+<img width="1263" height="373" alt="image" src="https://github.com/user-attachments/assets/4d71346f-c4b7-464e-9096-72a01f9a1831" />
+
+<img width="1298" height="591" alt="image" src="https://github.com/user-attachments/assets/7f844ee3-b7a6-429d-ac75-f4fe3cdfc476" />
+
+<img width="1279" height="595" alt="image" src="https://github.com/user-attachments/assets/239dceae-2af2-4977-8faa-37dee86303f6" />
+
+<img width="1268" height="525" alt="image" src="https://github.com/user-attachments/assets/841f7362-a8b0-4b74-ad6a-8c8c5cab57be" />
+
+<img width="1305" height="615" alt="image" src="https://github.com/user-attachments/assets/38b06d6f-5727-4c18-938f-579bf7a68e34" />
+
+<img width="1300" height="424" alt="image" src="https://github.com/user-attachments/assets/c2baeaec-9907-4392-8e70-4637c49ed470" />
 
 ## Dependencies
 
